@@ -1,0 +1,7 @@
+# This file authorizes Google AdMob to sell ad inventory for apps
+# published by this developer. Required at the root of the domain
+# entered as this app's "developer website" in Google Play Console.
+#
+# Publisher ID below is taken from the AdMob App ID already in
+# World Radio Shuffle's AndroidManifest.xml (ca-app-pub-3638659013258214).
+google.com, pub-3638659013258214, DIRECT, f08c47fec0942fa0
