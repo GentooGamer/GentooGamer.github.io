@@ -270,21 +270,10 @@ footer a:hover { color: var(--text); }
 .section h2 { font-size: 22px; }
 
 .feature-row {
-  display: flex;
-  gap: 18px;
   padding: 18px 0;
   border-top: 1px solid var(--border);
 }
 .feature-row:first-of-type { border-top: none; padding-top: 4px; }
-.freq {
-  font-family: var(--font-display);
-  font-variant-numeric: tabular-nums;
-  font-size: 14px;
-  color: var(--teal);
-  min-width: 52px;
-  padding-top: 3px;
-  flex-shrink: 0;
-}
 .feature-row h3 {
   font-size: 16.5px;
   margin-bottom: 4px;

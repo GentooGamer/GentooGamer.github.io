@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 340" width="260" height="340">
-<title>World Radio Shuffle logo — animated</title>
+<title>World Radio Shuffle logo, animated</title>
 
 <defs>
 
@@ -161,14 +161,14 @@
 
 
 <!-- ========================================================= -->
-<!-- Subtle Dark-Side Rim — current Kotlin version            -->
+<!-- Subtle Dark-Side Rim, current Kotlin version            -->
 <!-- ========================================================= -->
 
 <path d="M 219,180 A 89,89 0 0 1 130,269" fill="none" stroke="#9FD3E8" stroke-opacity="0.15" stroke-width="2" stroke-linecap="round"></path>
 
 
 <!-- ========================================================= -->
-<!-- Antenna — current Kotlin version                         -->
+<!-- Antenna, current Kotlin version                         -->
 <!-- ========================================================= -->
 
 <!-- Antenna base -->
